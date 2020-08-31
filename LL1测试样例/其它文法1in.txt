@@ -1,0 +1,15 @@
+3
+A->aB
+B->bA
+B->c
+1
+ababc$
+1
+abac$
+1
+aabac$
+1
+ababac$
+1
+a5c$
+0
